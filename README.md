@@ -4,7 +4,7 @@
 ```bash
 cd /data/ && \
 mv openpilot op_backup_$(date +%Y%m%d%H%M%S) && \
-git clone https://github.com/dragonpilot-community/dragonpilot.git openpilot -b devel-i18n && \
+git clone https://github.com/davecyli/dragonpilot.git openpilot -b devel-i18n && \
 cd openpilot/scripts/ && \
 ./reset_update.sh
 ```
