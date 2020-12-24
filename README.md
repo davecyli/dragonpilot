@@ -149,11 +149,7 @@ Installation
 载dragonpilot 开发版并存至openpilot 资料夹(2 选1):
     * github 
     ```bash
-    git clone https://github.com/dragonpilot-community/dragonpilot.git openpilot -b devel-i18n
-    ```
-    * gitee
-    ```bash 
-    git clone https://gitee.com/dragonpilot-community/dragonpilot.git openpilot -b devel-i18n
+    git clone https://github.com/davecyli/dragonpilot.git openpilot -b devel-i18n
     ```
 5. switch into openpilot directory
 切换到openpilot 的文件夹
